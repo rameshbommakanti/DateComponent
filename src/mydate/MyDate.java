@@ -15,7 +15,7 @@ public class MyDate {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("welcome");
+        System.out.println("welcome1");
         System.out.println("welcome2");
         System.out.println("welcome2");
         System.out.println("welcome2");
